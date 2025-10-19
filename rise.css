@@ -4,14 +4,14 @@
  * By Hakim El Hattab, http://hakim.se
  */
 :root {
-  --jp-code-font-size: 48px;   
-  --jp-content-font-size1: 48px;
-  --jp-ui-font-size1: 32px;
+  --jp-code-font-size: 32px;   
+  --jp-content-font-size1: 32px;
+  --jp-ui-font-size1: 24px;
 } 
 
 
 
 .rise-enabled .jp-OutputArea
     pre{
-    font-size: 48px;
+    font-size: 32px;
 }
