@@ -1,15 +1,13 @@
-/**
- * White theme for reveal.js. This is the opposite of the 'black' theme.
- *
- * By Hakim El Hattab, http://hakim.se
- */
 :root {
   --jp-code-font-size: 32px;   
   --jp-content-font-size1: 32px;
   --jp-ui-font-size1: 24px;
 } 
 
-
+.rise-enabled .jp-InputArea
+    pre{
+    font-size: 32px;
+}
 
 .rise-enabled .jp-OutputArea
     pre{
